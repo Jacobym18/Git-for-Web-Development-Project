@@ -153,7 +153,19 @@ You would fork the repo so you can make it yours. add your tl as a collaborator.
 Stretch Questions
 
 1. What is the difference between an inline element and a block element?
+
+Inline block will not force a new line in the document while a block element will.
+
 2. What happens when an element is positioned absolutely? 
+
+It is removed from the normal document flow, and no space is created for the element in the page layout.
+
 3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+
 4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+
+diplay block elements are div, p, and ul tags. inline block elements are span and a tags.
+
 5. In your own words, explain the box model. What is the fix for the box model?
+
+The block model allows you to make your elements look exactly how you want them to look by changing the padding, margin, and border.
